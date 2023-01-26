@@ -1,6 +1,6 @@
 <template>
     <p>
-        This is the HomePage you shouldn't do anything here yet.
+        This is the HomePage you shouldn't do anything here yet. jebo
     </p>
 </template>
 
